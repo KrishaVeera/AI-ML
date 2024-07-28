@@ -1,0 +1,37 @@
+# **What is AI?**
+
+- AI refers to simulated intelligence by machines, resembling human intelligence.
+- Examples: Chatbots with pre-programmed responses.
+
+**AI vs. ML (Machine Learning):**
+
+- **AI**: General term for machines that simulate intelligence.
+- **ML**: Subfield of AI where machines learn from data and improve over time.
+    - **Example**: A model that learns responses from chat logs.
+
+### **Machine Learning Types**
+
+**1. Supervised Learning:**
+
+- **Definition**: Model learns from labeled data.
+- **Example**: Classifying traffic light colors (Red, Yellow, Green) based on image data.
+
+**2. Unsupervised Learning:**
+
+- **Definition**: Model identifies patterns from unlabeled data.
+- **Example**: Clustering words based on their semantic vectors.
+
+**3. Reinforcement Learning:**
+
+- **Definition**: Model learns to make decisions by receiving rewards or penalties.
+- **Example**: Learning to play a game by maximizing rewards through trial and error.
+
+### **Deep Learning**
+
+- **Definition**: A subset of machine learning using neural networks to model complex problems.
+- **Application**: Can be applied to supervised, unsupervised, and reinforcement learning tasks.
+
+### **Machine Learning in Data Science:**
+
+- ML can be used to analyze and predict trends from data.
+- Not all data analysis involves ML; simple visualizations do not.
